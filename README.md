@@ -15,4 +15,4 @@
 ![Logo Bootcamp Orange Tech+](https://user-images.githubusercontent.com/114373550/206233370-f7999a8c-6abe-4774-b84c-9fe4b63a169c.png)
 
 ## Links Úteis
-[Sintaxa Básica Markdown](https://www.markdownguide.org/basic-syntax/)
+[Sintaxe Básica Markdown](https://www.markdownguide.org/basic-syntax/)
