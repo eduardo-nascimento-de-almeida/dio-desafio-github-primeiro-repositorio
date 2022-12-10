@@ -15,7 +15,7 @@
     - Acima de 40: obesidade grave.
 */
 
-const peso = 80;
+const peso = 75;
 const altura = 1.75;
 
 const imc = peso / Math.pow(altura, 2);
