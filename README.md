@@ -6,9 +6,10 @@
 
 # :dart: Objetivos do Projeto
 
-- Anotações das aulas
-- Curiosidades gerais
-- Observações pessoais
+- Anotações das aulas;
+- Resolução de exercícios;
+- Curiosidades gerais;
+- Observações pessoais.
 
 <br />
 
