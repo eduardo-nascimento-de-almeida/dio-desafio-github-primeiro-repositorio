@@ -1,4 +1,4 @@
-import { useState } from "react";
+import { useState, useEffect } from "react";
 
 const Teste = () => {
   
@@ -9,6 +9,10 @@ const Teste = () => {
   const handleChangeName = () => {
     setName(prev => prev === 'Eduardo' ? 'Pablo' : 'Eduardo')
   }
+
+  useEffect(() => {
+    handleChangeName();
+  }, []);
 
   return (
     <div>
